@@ -1,5 +1,5 @@
 # smart-start-academy
 This is my first github repository.
 <br>
-<h1>Author - suresh</h1>
+<h4>Author - suresh</h4>
 
